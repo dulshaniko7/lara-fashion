@@ -1,0 +1,16 @@
+.main-pic{
+    height: 80vh;
+    background: url("../images/photo-of-women-s-clothing-1488463.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+.tumbnail{
+
+    max-height: 240px;
+
+}
+.button_link{
+    text-decoration: none !important;
+color: white !important;
+}
